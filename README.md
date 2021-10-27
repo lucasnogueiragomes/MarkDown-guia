@@ -73,7 +73,7 @@ else
 Emojis: Para usar emojis é só usar  :  e então escrever o nome do emoji que quiser, após isso é só clicar no emoji quando a opção dele aparecer, ou usar : no inicio e final da frase, usando a frase do emoji que quiser. Exemplo 🐒 ou então :'monkey': sem as aspas e o mesmo emoji irá aparecer.
 
 
-Parabens! Você chegou ao final do guia básico de MarkDown, espero que você tenha gostado e que isso tenha te ajudado de alguma forma!
+🥇 Parabens! Você chegou ao final do guia básico de MarkDown, espero que você tenha gostado e que isso tenha te ajudado de alguma forma!
 🤝 Caso este guia tenha sido útil para você, peço que me ajude me seguindo aqui no GitHub, para facilitar, [Clique aqui](https://github.com/lucasnogueiragomes) para ir para meu perfil. 
 
 🕺 Tchauzinho meu amigo, fique com Deus.
